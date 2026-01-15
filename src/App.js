@@ -1,8 +1,8 @@
 import React from 'react';
-import { EventData1 } from './event-data';
+import RefsArray from './refs-array';
 
 function App() {
-  return <EventData1 />;
+  return <RefsArray />;
     
 }
 
