@@ -1,9 +1,6 @@
 import React from 'react';
-import MessageBox from './state-func';
+import MassageBox from './state-func';
 
-function App() {
-  return <MessageBox/>
-    
+export default function App(){
+  return <MassageBox/>
 }
-
-export default App;
